@@ -7,20 +7,17 @@ module_1_excel
 
    To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and            analyze a database of 1,000 sample projects to uncover any hidden trends.
 
-
 2. Before You Begin
 
    Create a new folder for this project called excel-challenge in either Dropbox or Google Drive. Do not add this Challenge to an existing repository.
 
    Store your Excel workbooks here in this new space, and create a sharable link for submission.
 
-
 3. Files
 
    Download the following files to help you get started: https://static.bc-edx.com/data/dl-1-2/m1/lms/starter/Starter_Code.zip 
 
    Module 1 Challenge filesLinks to an external site.
-
 
 4. Instructions
 
@@ -71,7 +68,6 @@ module_1_excel
    What are some limitations of this dataset?
 
    What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
-
 
 5. Crowdfunding Goal Analysis
 
@@ -124,7 +120,6 @@ module_1_excel
    Add up each of the values in the Number Successful, Number Failed, and Number Canceled columns to populate the Total Projects column. Then, using a mathematical formula, find the percentage of projects that were successful, failed, or canceled per goal range.
 
    Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
-
 
 6. Statistical Analysis
   
